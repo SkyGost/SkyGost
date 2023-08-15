@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkyGost
 - 👀 I’m interested in HTML and CSS also,I want to lern JS.
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML and CSS also i'm Unity developer
 
 - 
 
